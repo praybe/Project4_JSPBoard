@@ -1,2 +1,2 @@
-# Project4_jspBoard
-이미지는 [여기](https://praybe.tistory.com/category/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84) 를 클릭하면 볼 수 있습니다 
+### 클릭해주세요 !
+ [MVC BOARD](https://github.com/praybe/Project4_jspBoard/blob/master/%EC%A0%95%EC%9C%A0%EC%A0%95MVC%20Model.pdf) 
